@@ -62,13 +62,6 @@ author:
   name   : "Tiefeng Zhang"
   avatar : "/assets/images/thrustorque.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thrustorque.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ztflmm"
 
 footer:
   links:
@@ -78,6 +71,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ztflmm"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thrustorque.com"
 
 defaults:
   # _posts
