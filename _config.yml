@@ -83,6 +83,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+      date_format: "%B %-d, %Y"
       read_time: true
       comments: true
       share: true
