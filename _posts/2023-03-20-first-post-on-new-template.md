@@ -8,5 +8,5 @@ tags:
   - update
 ---
 
-First post after migrated to the Jekyll minimal mistake theme, still need to figure out the Categories; Tags; About pages still linking to the old theme pages. I will start posting thrust and torque contents in the coming months.
+First post after migrated to the Jekyll minimal mistake theme, still need to figure out the Categories; Tags; About pages linking to the old theme pages. I will start posting thrust and torque contents in the coming months.
 
