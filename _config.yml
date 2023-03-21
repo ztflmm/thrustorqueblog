@@ -16,10 +16,11 @@
 title: ThrusTorque
 subtitle: "Version 1.0"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Place to share my thoughts on valve, actuation and valve automation"
+# this means to ignore newlines until "baseurl:"
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "dark"
@@ -61,7 +62,7 @@ plugins:
 author:
   name   : "Tiefeng Zhang"
   avatar : "/assets/images/thrustorque.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Place to share my thoughts on valve, actuation and valve automation."
 
 footer:
   links:
