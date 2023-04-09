@@ -111,4 +111,4 @@ comments:
   utterances:
     theme: "github-dark" # "github-dark"
     issue_term: "pathname"
-    label: "comment" # Optional - must be existing label.
+    #label: "comment" # Optional - must be existing label.
