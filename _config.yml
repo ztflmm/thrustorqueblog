@@ -105,6 +105,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
+repository: "ztflmm/thrustorqueblog"
 comments:
   provider: "utterances"
   utterances:
